@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SearchHashMD5</string>
+    <string name="input_hash">Введите хеш</string>
+    <string name="search">Поиск</string>
+    <string name="export_import">Импорт/Экспорт</string>
+    <string name="name_file">Имя файла</string>
+    <string name="input_name_file">Введите имя файла:</string>
+    <string name="hash_added">Хеш добавлен в список</string>
+    <string name="ok">Ок</string>
+    <string name="incorrect_format_hash">Некорректный формат MD5 хеша</string>
+    <string name="list_hash">Спиоск хешей</string>
+    <string name="import_">Импорт</string>
+    <string name="import_file">Импорт файла</string>
+    <string name="export">Экспорт</string>
+    <string name="export_file">Экспорт файла</string>
+    <string name="filename_cannot_be_empty">Название файла не может быть пустым</string>
+    <string name="error_reading_file">Ошибка чтения файла</string>
+    <string name="file_imported_successfully">Файл умпешно импортирован</string>
+    <string name="close">Закрыть</string>
+    <string name="no_files_available_for_import">Нет файлов для импорта</string>
+    <string name="error_writing_file">Ошибка записи файла</string>
+    <string name="file_saved_as">Файл сохранен как</string>
+    <string name="error_working_service">Ошибка работы сервиса</string>
+</resources>

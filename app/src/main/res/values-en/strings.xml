@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SearchHashMD5</string>
+    <string name="input_hash">Unput hash</string>
+    <string name="search">Search</string>
+    <string name="export_import">Import/Export</string>
+    <string name="name_file">Name file</string>
+    <string name="input_name_file">Input name file:</string>
+    <string name="hash_added">Hash added</string>
+    <string name="ok">OK</string>
+    <string name="incorrect_format_hash">Incorrect format hash MD5</string>
+    <string name="list_hash">List hash</string>
+    <string name="import_">Import</string>
+    <string name="import_file">Import file</string>
+    <string name="export">Export</string>
+    <string name="export_file">Export file</string>
+    <string name="filename_cannot_be_empty">File name cannot be empty</string>
+    <string name="error_reading_file">Error reading file</string>
+    <string name="file_imported_successfully">File imported successfully</string>
+    <string name="close">Close</string>
+    <string name="no_files_available_for_import">No file available for import</string>
+    <string name="error_writing_file">Error writing file</string>
+    <string name="file_saved_as">File saved as</string>
+    <string name="error_working_service">Error working service</string>
+</resources>
